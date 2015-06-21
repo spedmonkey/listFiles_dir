@@ -9,5 +9,4 @@ for (dirpath, dirnames, filenames) in walk('/home/spedmonkey/Pictures/goPro/100G
 for i in filenames[0::50]:
 	shutil.copyfile(dirpath+'/'+i, '/home/spedmonkey/Pictures/'+str(i))
 
-#asdf
-#asdf
+fuck this shit
