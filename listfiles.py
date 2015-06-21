@@ -10,3 +10,4 @@ for i in filenames[0::50]:
 	shutil.copyfile(dirpath+'/'+i, '/home/spedmonkey/Pictures/'+str(i))
 
 #asdf
+#asdf
